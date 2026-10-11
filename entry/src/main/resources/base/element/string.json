@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "和声 AI"
+    },
+    {
+      "name": "microphone_reason",
+      "value": "用于将你的语音问题转换为文字，与 AI 助手对话。"
+    }
+  ]
+}
